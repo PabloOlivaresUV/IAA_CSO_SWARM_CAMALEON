@@ -1,6 +1,6 @@
 public class Swarm {
 
-	private final int 	  ps 	   = 10;
+	private final int 	  ps 	   = 30;
 	private final int 	  T 	   = 500;
 	private final double  p1 	   = 0.25f;
 	private final double  p2 	   = 1.50f;
